@@ -183,7 +183,7 @@ h3 { font-size: 21px; }
   padding: 120px 0 68px;
   color: var(--ink);
 }
-.hero h1 { color: var(--ink); }
+.hero h1 { color: var(--yellow); }
 .hero p { max-width: 620px; color: var(--muted); font-size: 18px; margin-top: 20px; }
 .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 30px; }
 .hero-strip {
